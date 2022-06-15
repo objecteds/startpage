@@ -13,16 +13,16 @@
 
 ## Usage
 
+This repository contains a personalised version of the Rosé Pine HTML/CSS Startpage. 
+
+To create your own:
 1. `git clone https://github.com/rose-pine/startpage/`
 2. Edit `index.html` with links of your choice
 3. Host with any static hosting (nginx, serve, basic-http-server, etc)
 
-## Gallery
 
-![image](https://user-images.githubusercontent.com/44733677/156901101-65f4a25b-b68d-4ac2-8977-43c2d452acc4.png)
+## Credits
 
-
-## Thanks to 
-
+- [Rosé Pine Theme](https://github.com/rose-pine)
 - [ThatOneCalculator](https://github.com/thatonecalculator)
 - [okaabe](https://github.com/okaabe)
