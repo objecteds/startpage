@@ -1,3 +1,5 @@
+# Startpage
+
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
     <h2 align="center">Rosé Pine HTML/CSS Startpage</h2>
@@ -13,7 +15,7 @@
 
 ## Usage
 
-This repository contains a personalised version of the Rosé Pine HTML/CSS Startpage. 
+This repository contains a personalised version of the [Rosé Pine HTML/CSS Startpage](https://github.com/rose-pine/startpage). 
 
 To create your own:
 1. `git clone https://github.com/rose-pine/startpage/`
