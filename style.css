@@ -41,9 +41,10 @@ body {
 }
 
 .link {
+	vertical-align: top;
 	display: inline-block;
 	margin: 1%;
-	height: 185px;
+	height: 100%;
 	width: 140px;
 	text-align: left;
 	padding-left: 3%;
@@ -54,6 +55,12 @@ body {
 
 .box {
 	width: 750px;
+}
+
+p {
+	font-family: var(--font);
+	color: #f6c177;
+	font-size: 20px;
 }
 
 ul {
@@ -83,4 +90,16 @@ a:hover {
     margin: 50px 0px 50px 0px;
     color: var(--linkcolor);
 	text-shadow: -5px 5px 0px #eb6f92, -10px 10px #f6c177, -15px 15px 0px #C3A5E6, -20px 20px 0px #31748f;
+}
+
+#quote {
+	color: #eb6f92;
+}
+
+.footer {
+	margin: 50px 0px 50px 0px;
+}
+
+.footer p {
+	color: #908caa;
 }
